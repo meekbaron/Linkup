@@ -30,6 +30,8 @@
     </nav>
 
     
+
+    
     <!-- Main Content -->
     <main>
         @yield('content')
